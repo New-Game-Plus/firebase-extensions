@@ -1,5 +1,5 @@
 {
-  "name": "@firebaseextensions/firestore-bigquery-change-tracker",
+  "name": "@newgameplus/firestore-bigquery-change-tracker",
   "repository": {
     "type": "git",
     "url": "github.com/firebase/extensions.git",
